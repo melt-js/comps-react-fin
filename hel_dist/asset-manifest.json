@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/comps-react-fin/hel_dist/static/js/main.499ebaef.js",
+    "runtime.js": "/comps-react-fin/hel_dist/static/js/runtime.9afc292e.js",
+    "static/css/492.1a0dfc92.chunk.css": "/comps-react-fin/hel_dist/static/css/492.1a0dfc92.chunk.css",
+    "static/js/492.6e126eeb.chunk.js": "/comps-react-fin/hel_dist/static/js/492.6e126eeb.chunk.js",
+    "static/css/316.1a0dfc92.chunk.css": "/comps-react-fin/hel_dist/static/css/316.1a0dfc92.chunk.css",
+    "static/js/316.98ed360e.chunk.js": "/comps-react-fin/hel_dist/static/js/316.98ed360e.chunk.js",
+    "vendor.js": "/comps-react-fin/hel_dist/static/js/vendor.61e8767c.js",
+    "static/media/logo.svg": "/comps-react-fin/hel_dist/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/comps-react-fin/hel_dist/index.html"
+  },
+  "entrypoints": [
+    "static/js/runtime.9afc292e.js",
+    "static/js/vendor.61e8767c.js",
+    "static/js/main.499ebaef.js"
+  ]
+}
